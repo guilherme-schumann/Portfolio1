@@ -1,4 +1,6 @@
-This project is a Portfolio study using React to develop. 
+This project is a Portfolio study using React to develop.
+
+Teste alteração para commit.
 
 # Getting Started with Create React App
 
